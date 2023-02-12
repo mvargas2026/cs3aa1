@@ -1,0 +1,61 @@
+.bah{
+    font-family: 'Solitreo', cursive;
+    background-color: black;
+    color: white;
+}
+.txt{
+    text-align: center;
+    margin: auto;
+    font-size: 100px;
+}
+
+.q{
+    text-align: center;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right: 50%;
+    width: 50%;
+    padding: 10px;
+}
+.q-btn{
+    font-size: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.q1 {
+    background-color: #E0A394;
+    color: #1F1A1A;
+}
+.q1-btn{
+    background-color: #511817;
+    color: #F1F0F1;
+}
+
+.q2 {
+    background-color: #9ab9df;
+    color: #6b636b;
+}
+.q2-btn{
+    background-color: #aa7b41;
+    color: #F1F0F1;
+}
+
+.q3 {
+    background-color: #8AB2BE;
+    color: #2c383d; 
+}
+.q3-btn{
+    background-color: #301A0D;
+    color: white;
+}
+
+.q4 {
+    background-color: #95C97E;
+    color: #192414; 
+}
+.q4-btn{
+    background-color: #192414;
+    color: #95C97E;
+}
